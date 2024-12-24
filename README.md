@@ -126,14 +126,6 @@ Contributions are welcome! Please follow these steps:
    git push origin feature-branch
    ```
 4. Create a pull request.
-
-## License
-This project is licensed under the MIT License. See `LICENSE` for details.
-
-## Contact
-For queries or feedback, please contact:
-- **Email**: [your-email@example.com]
-- **GitHub**: [your-github-profile]
-
+5. 
 Happy coding!
 

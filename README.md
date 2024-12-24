@@ -1,5 +1,7 @@
 # Playlist Recommendation System
 
+![DALL·E 2024-12-24 15 34 37 - A visually appealing concept art of a playlist recommendation system interface  The image features dynamic elements like floating musical notes, album-min](https://github.com/user-attachments/assets/edc54ee4-d6cb-49e3-8b17-fe6b8160dc06)
+
 ## Overview
 The Playlist Recommendation System aims to predict and suggest songs to complete partial playlists. By leveraging historical data from existing playlists, the system generates song recommendations that closely align with the user's preferences.
 

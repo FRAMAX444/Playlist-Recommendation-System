@@ -2,3 +2,7 @@ MRC
 Spotify_Million
 dataframes
 decoding
+tracks.json
+decoding/tracks.json
+decoding/artists.json
+decoding/albums.json
